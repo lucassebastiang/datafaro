@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Datafaro" width="100%">
+</p>
+
 # Datafaro · operación con IA para agencias de marketing digital
+
+![en producción](https://img.shields.io/badge/estado-en%20producci%C3%B3n-2EA043?style=flat-square) ![proyecto propio](https://img.shields.io/badge/proyecto%20propio-7C6CF0?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 **Web:** https://datafaro.es
 
+> [!NOTE]
 > **Proyecto propio.** Plataforma que conecta las cuentas de publicidad y analítica de los clientes de una agencia, audita sus webs, detecta problemas, **propone y aplica correcciones con aprobación** y comprueba que desaparecen en la siguiente auditoría. El código es privado. Aquí están el problema, la arquitectura, las decisiones y [fragmentos del código real](snippets/), además del [detalle de seguridad](docs/seguridad.md).
 
 ## El problema
